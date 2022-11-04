@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: minima
 title: Welcome to the Pawel's homepage!
 description: Mateusz, now it's your turn to learn Github :)
