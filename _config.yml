@@ -1,4 +1,4 @@
 #theme: jekyll-theme-cayman
-theme: minima
+theme: architect
 title: Stack Overflow Survey Analysis
 description: Analysis of SO Survey results from years 2011-2022 from the Python programming angle
