@@ -1,8 +1,18 @@
-## Stack Overflow Survey Analysis
+![Image](/docs/assets/blog_photo_1.JPG)
 
-You can use the [editor on GitHub](https://github.com/Pawelwl/Pawelwl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Stack Overflow runs an Annual Developer Survey every year since 2011. In this article the results of the survey are examined for a subgroup of developers that desribe themselves as being from Data Science field. Five years of data (2018-2022) is analysed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The survey data and other related details can be found here:
+https://insights.stackoverflow.com/survey
+
+By data analysis of the survey results I look for an answer to the following questions:
+
+1. How do Data Scientists work (hybrid / remote / in-person)?
+2. What is the education level of Data Scientists and how it has changed over time?
+3. How Data Scientist learn to code?
+4. How much Data Scientists earn and how much the salaries differ between countries?
+5. What are the most popular technologies used?
+6. Do mental health problems and accessibility issues affect Data Scientists?
 
 ### Markdown
 
@@ -26,7 +36,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](/docs/assets/blog_photo_1.JPG)
 ```
 
-![Image](/docs/assets/blog_photo_1.JPG)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
