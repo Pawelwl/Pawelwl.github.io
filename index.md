@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/Pawelwl/Stack_Overflow_Survey_Analysis/tree/main/pictures/blog_photo_1.JPG)
+[Link](url) and ![Image](/Stack_Overflow_Survey_Analysis/pictures/blog_photo_1.JPG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
