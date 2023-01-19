@@ -65,12 +65,13 @@ Five languages that seem to be the most relevant for Data Scientists are analyse
 ![Image](/docs/assets/DS_LanguageHaveWorkedWith.png)
 
 Python is the most common language for Data Scientists. SQL and R are on the second and third place respecitvely. A growing interest in Julia and decreasing interest in Scala is visible. It will be interesting to observe Julia development in the upcoming years. The above information can be an good indicator for people planning to switch to a Data Scientist role. Learning Python seems as an obvious first choice, followed by SQL on the second place.
+
 #### 5.2. Most popular technologies
-The following relevant for Data Scientists technologies are analysed: 'Keras', 'NumPy', 'Pandas', 'Scikit-learn', 'TensorFlow', 'Torch/PyTorch'.
+The following relevant from the point of view of Data Scientists technologies are analysed in time: 'Keras', 'NumPy', 'Pandas', 'TensorFlow', 'Torch/PyTorch'.
 
 ![Image](/docs/assets/DS_MiscTechHaveWorkedWith.png)
 
-Numpy and Pandas are the two top technologies among Data Scientists. Essentially that are Python libraries for data analysis and numerical computations. The other three technologies refer to deep learning. Tensorflow is the most popular one. However, when looking at the trends it looks that interest in Tensorflow is stable / decreasing and interest in Torch/PyTorch is rising.
+Numpy and Pandas are the two top technologies among Data Scientists. Essentially they are Python libraries for numerical computations and data analysis. The other three technologies refer to deep learning. Tensorflow is the most popular one. However, when looking at the trends it seems that interest in Tensorflow is stable / decreasing and interest in Torch/PyTorch is rising.
 
 #### 6. Do mental health problems and accessibility issues affect Data Scientists?
 #### 6.1. Accessibility
@@ -78,20 +79,20 @@ The first column in the below table presents options to select in a survey quest
 
 ![Image](/docs/assets/DS_Accessibility_pivot.PNG)
 
-Based on the survey results we can say that accessibility issues affect around 7% of the population of Data Scientists. There are different issues raised like problems with typing, walking, seeing or hearing. Awareness of the fact that 7 out of 100 Data Scientists might have problems like that is critical, especially for companies hiring Data Scientists. For example, company policies regarding assitance for people with disabilities should be in place. Also recognizing the value of diversity and inclusion plays a key role here.
+Based on the survey results we can say that accessibility issues affect around 7% of the population of Data Scientists. There are different issues raised like problems with typing, walking, seeing or hearing. Awareness of the fact that 7 out of 100 Data Scientists might have problems like that is critical, especially for companies employing Data Scientists. For example, company policies regarding assitance for people with disabilities should be in place. Also recognizing the value of diversity and inclusion plays a key role here.
 
 #### 6.2. Mental Health
 The first column in the below table presents options to select in a survey question related to mental health. It's a multiple choice question.
 
 ![Image](/docs/assets/DS_MentalHealth_pivot.PNG)
 
-Based on the survey results around 30% of Data Scientists have various mental health problems. The most common are concentration and/or memory disorder, anxiety and mood or emotional disorder. Around 4% respondents have autism spectrum disorder. The results show that mental health problems really exist and in an average Team of 10 Data Scientists, 3 have various kinds of mental health issues. It is good that this question was added to stack overflow survey in 2021. Awareness that such problem exists and that the scale is significant is very informative, especially for companies hiring Data Scientists. If a company offers a support for people with mental health problems it could be a significant benefit not only for existing employees, but also for prospective ones.
+Based on the survey results around 30% of Data Scientists have various mental health problems. The most common are concentration and/or memory disorder, anxiety and mood or emotional disorder. Around 4% respondents have autism spectrum disorder. The results show that mental health problems really exist. In an average Team of 10 Data Scientists, 3 have various kinds of mental health issues. It is good that this question was added to stack overflow survey in 2021. Awareness that such problem exists and that the scale is significant is very informative, especially for companies who would like to create a great place to work for their employees. If a company offers a support for people with mental health problems it could be a significant benefit not only for existing employees, but also for prospective ones.
 
 #### Summary
 
 The analysis, which is based on the results from stack overflow survey in years 2018-2022, provided interesting insights related to the way Data Scientists work, their education level, ways to learn, salaries, most common technologies and touches important subjects like mental health and accessibility issues.
-Depending on the reader, if that is a Data Scientist, aspiring Data Scientist or someone from a company managing and building Data Science Teams, everyone should find interesting information in the results of the analysis.
+Depending on the reader, if that is a Data Scientist, aspiring Data Scientist or someone from a company managing and building Data Science Teams, everyone should find interesting insights in the results of the analysis.
 
 #### References
-[Jupyter Notebook based on which this article was created](https://github.com/Pawelwl/Stack_Overflow_Survey_Analysis/blob/main/Stack%20Overflow%20Survey%20Analysis%20-%20a%20Data%20Scientist%20perspective.ipynb)
-
+[Jupyter Notebook based on which this article was created](https://github.com/Pawelwl/Stack_Overflow_Survey_Analysis/blob/main/Stack%20Overflow%20Survey%20Analysis%20-%20a%20Data%20Scientist%20perspective.ipynb) <br>
+[Source Stack Overflow Survey Data](https://insights.stackoverflow.com/survey) 
