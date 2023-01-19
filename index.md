@@ -56,7 +56,7 @@ From the perspective of a Data Scientist looking for a job abroad, not only sala
 
 ![Image](/docs/assets/DS_MedainSalaryEUR_pivot.PNG)
 
-While comparing not only the salary, but also taking into account the costs of living the hierarchy of countries changes. Still USA is the top pick. However, Switzerland which was top 2 according to salary only is on the 8th place when the cost of living is taken into account. Relatively good salary compared to costs have Data Scientists in India, Canada and Poland.
+While comparing not only the salary, but also taking into account the costs of living the hierarchy of countries changes (Look at the Financial_wellbeing_index columns which is the Median_Salary_in_EUR/cost_index). Still USA is the top pick. However, Switzerland which was top 2 according to salary only is on the 8th place when the cost of living is taken into account. Relatively good salary compared to costs have Data Scientists in India, Canada and Poland.
 
 #### 5. What are the most popular technologies used?
 #### 5.1. Most popular languages
