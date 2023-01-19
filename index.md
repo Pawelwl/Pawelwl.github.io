@@ -1,4 +1,4 @@
-Stack Overflow runs an Annual Developer Survey every year since 2011. In this article the results of the survey are examined for a subgroup of developers that desribe themselves as being from Data Science field. More specifically, they describe themselves as 'Data scientist or machine learning specialist'. Five years of data (2018-2022) is analysed.
+<div style="text-align: justify"> Stack Overflow runs an Annual Developer Survey every year since 2011. In this article the results of the survey are examined for a subgroup of developers that desribe themselves as being from Data Science field. More specifically, they describe themselves as 'Data scientist or machine learning specialist'. Five years of data (2018-2022) is analysed. </div> 
 
 The survey data and other related details can be found [here](https://insights.stackoverflow.com/survey) 
 
@@ -13,46 +13,46 @@ The data analysis of the survey results aims to answer the following questions:
 
 ![Image](/docs/assets/blog_photo_1.JPG)
 
-Between around 5% to 7% of survey participants describe themselves as Data Scientists, which is just a fraction of all types of professions that use Stack Overflow. The whole analysis presented below relates only to the Data Science area of expertise.
+<div style="text-align: justify"> Between around 5% to 7% of survey participants describe themselves as Data Scientists, which is just a fraction of all types of professions that use Stack Overflow. The whole analysis presented below relates only to the Data Science area of expertise. </div> 
 
 ![Image](/docs/assets/DS_proportions.png)
 
 Below I attempt to answer all the six questions using data analysis and visualistion.
 
 #### 1. How do Data Scientists work (hybrid / remote / in-person)?
-Around a half of Data Scientists worked in a hybrid model in 2022. 36% worked fully remotely and only 13% fully in-person. This information seems to be particularly important for companies that are willing to hire Data Scientists. If we assume that those proportions represent the working style preferences of Data Science community, a company that will require a full in-person attendance can lose an interest of on average seven out of eight candidates!
+<div style="text-align: justify"> Around a half of Data Scientists worked in a hybrid model in 2022. 36% worked fully remotely and only 13% fully in-person. This information seems to be particularly important for companies that are willing to hire Data Scientists. If we assume that those proportions represent the working style preferences of Data Science community, a company that will require a full in-person attendance can lose an interest of on average seven out of eight candidates! </div> 
 
 ![Image](/docs/assets/DS_RemoteWork.png)
 
 #### 2. What is the education level of Data Scientists and how it has changed over time?
-By analysing the 5 most common education types in years 2018-2022 we observe increase in the highest levels of formal education (Master's and doctoral degrees) and decrease for hte rest. This trends might be a result of Data Science requiring higher qualifications to be able to keep up with the more advanced technology that appears every year. On one side the Data Scientists might upskill themselves to get more advanced degrees. On the other side people who join this field might have already an advanced degree.
+<div style="text-align: justify"> By analysing the 5 most common education types in years 2018-2022 we observe increase in the highest levels of formal education (Master's and doctoral degrees) and decrease for hte rest. This trends might be a result of Data Science requiring higher qualifications to be able to keep up with the more advanced technology that appears every year. On one side the Data Scientists might upskill themselves to get more advanced degrees. On the other side people who join this field might have already an advanced degree. </div>
 
 ![Image](/docs/assets/DS_EdLevel.png)
 
 #### 3. How Data Scientist learn to code?
 #### 3.1. Learning to code resources
-Based on the chart below we can see that 'School' and 'other online resources' are the most important components in learning to code. Their importance raised in 2022. Books and online courses are also very important - more than a half of Data Scientists in 2022 learned coding using it. On the other side, Coding Bootcamp is not a primary resource for learning to code.
+<div style="text-align: justify"> Based on the chart below we can see that 'School' and 'other online resources' are the most important components in learning to code. Their importance raised in 2022. Books and online courses are also very important - more than a half of Data Scientists in 2022 learned coding using it. On the other side, Coding Bootcamp is not a primary resource for learning to code. </div>
 
 ![Image](/docs/assets/DS_LearnCode.png)
 
 #### 3.2. Online resources to learn to code
-We already know that online resources are widely used. Technical documentation, stack overflow and blogs are the most popular learning online resources. More than 50% of Data Scientists use also written tutorials, how-to videos and online books. Certification videos, programming games and auditory materials (e.g. podcasts) are not very common.
+<div style="text-align: justify"> We already know that online resources are widely used. Technical documentation, stack overflow and blogs are the most popular learning online resources. More than 50% of Data Scientists use also written tutorials, how-to videos and online books. Certification videos, programming games and auditory materials (e.g. podcasts) are not very common. </div>
 
 ![Image](/docs/assets/DS_LearnCodeOnline.png)
 
 #### 3.3. Online courses or certifications used to learn to code
-By far the most common platforms are Coursera and Udemy. edX, Codecademy and Udacity are next, while being used by more than 20% of respondents. If we assume that what is the most commonly used is the most useful, this is a valuable information for companies which want to upskill their employees and for Data Scienstists as well if they want to learn new skills.
+<div style="text-align: justify"> By far the most common platforms are Coursera and Udemy. edX, Codecademy and Udacity are next, while being used by more than 20% of respondents. If we assume that what is the most commonly used is the most useful, this is a valuable information for companies which want to upskill their employees and for Data Scienstists as well if they want to learn new skills. </div>
 
 ![Image](/docs/assets/LearnCodeCoursesCert.png)
 
 #### 4. How much Data Scientists earn and how the salaries differ between countries?
-To answer this question a median monthly salary before taxes is compared for 12 most common countries in the survey in year 2022.  
-The salary in country's currency is converted to EUR based on average exchange rate in 2022, which makes the comparison easier.
+<div style="text-align: justify"> To answer this question a median monthly salary before taxes is compared for 12 most common countries in the survey in year 2022.  
+The salary in country's currency is converted to EUR based on average exchange rate in 2022, which makes the comparison easier. </div>
 
 ![Image](/docs/assets/DS_MedainSalaryEUR.png)
 
-After converting the median monthly salary to one common currency (EUR) it is possible to compare it between countries. The range is very wide, from ca. 12k EUR per month in the USA to 1.6k EUR in Brazil. This information can be very useful for Data Scientists looking for a job abroad. Also if a company is planning to build an international Team the information about median salary per country can be a good indicator of the people costs. For example a company based in the USA can hire 3 Data Scientists in Poland or 5 in India for the cost of one Data Scientist in the USA. <br>
-From the perspective of a Data Scientist looking for a job abroad, not only salary matters, but costs of living as well. The information about living costs is provided based on data from [numbeo website](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2022&displayColumn=2). 'Cost of Living Plus Rent Index' is used, which is an estimation of consumer goods prices including rent comparing to New York City. The value of the index for New York City is 100.
+<div style="text-align: justify"> After converting the median monthly salary to one common currency (EUR) it is possible to compare it between countries. The range is very wide, from ca. 12k EUR per month in the USA to 1.6k EUR in Brazil. This information can be very useful for Data Scientists looking for a job abroad. Also if a company is planning to build an international Team the information about median salary per country can be a good indicator of the people costs. For example a company based in the USA can hire 3 Data Scientists in Poland or 5 in India for the cost of one Data Scientist in the USA. <br>
+From the perspective of a Data Scientist looking for a job abroad, not only salary matters, but costs of living as well. The information about living costs is provided based on data from [numbeo website](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2022&displayColumn=2). 'Cost of Living Plus Rent Index' is used, which is an estimation of consumer goods prices including rent comparing to New York City. The value of the index for New York City is 100. </div>
 
 ![Image](/docs/assets/DS_MedainSalaryEUR_pivot.PNG)
 
