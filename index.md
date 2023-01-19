@@ -20,7 +20,7 @@ The data analysis of the survey results aims to answer the following questions:
 Below I attempt to answer all the six questions using data analysis and visualistion.
 
 #### 1. How do Data Scientists work (hybrid / remote / in-person)?
-<div style="text-align: justify"> Around a half of Data Scientists worked in a hybrid model in 2022. 36% worked fully remotely and only 13% fully in-person. This information seems to be particularly important for companies that are willing to hire Data Scientists. If we assume that those proportions represent the working style preferences of Data Science community, a company that will require a full in-person attendance can lose an interest of on average seven out of eight candidates! </div> 
+<div style="text-align: justify"> Around a half of Data Scientists worked in a hybrid model in 2022. 36% worked fully remotely and only 13% fully in-person. This information seems to be particularly important for companies that are willing to hire Data Scientists. If we assume that those proportions represent the working style preferences of Data Science community, a company that will require a full in-person attendance can lose an interest of on average seven out of eight candidates!</div> 
 
 ![Image](/docs/assets/DS_RemoteWork.png)
 
@@ -56,7 +56,7 @@ From the perspective of a Data Scientist looking for a job abroad, not only sala
 
 ![Image](/docs/assets/DS_MedainSalaryEUR_pivot.PNG)
 
-While comparing not only the salary, but also taking into account the costs of living the hierarchy of countries changes (Look at the Financial_wellbeing_index columns which is the Median_Salary_in_EUR/cost_index). Still USA is the top pick. However, Switzerland which was top 2 according to salary only is on the 8th place when the cost of living is taken into account. Relatively good salary compared to costs have Data Scientists in India, Canada and Poland.
+<div style="text-align: justify"> While comparing not only the salary, but also taking into account the costs of living the hierarchy of countries changes (Look at the Financial_wellbeing_index columns which is the Median_Salary_in_EUR/cost_index). Still USA is the top pick. However, Switzerland which was top 2 according to salary only is on the 8th place when the cost of living is taken into account. Relatively good salary compared to costs have Data Scientists in India, Canada and Poland. </div>
 
 #### 5. What are the most popular technologies used?
 #### 5.1. Most popular languages
@@ -64,14 +64,14 @@ Five languages that seem to be the most relevant for Data Scientists are analyse
 
 ![Image](/docs/assets/DS_LanguageHaveWorkedWith.png)
 
-Python is the most common language for Data Scientists. SQL and R are on the second and third place respecitvely. A growing interest in Julia and decreasing interest in Scala is visible. It will be interesting to observe Julia development in the upcoming years. The above information can be an good indicator for people planning to switch to a Data Scientist role. Learning Python seems as an obvious first choice, followed by SQL on the second place.
+<div style="text-align: justify"> Python is the most common language for Data Scientists. SQL and R are on the second and third place respecitvely. A growing interest in Julia and decreasing interest in Scala is visible. It will be interesting to observe Julia development in the upcoming years. The above information can be an good indicator for people planning to switch to a Data Scientist role. Learning Python seems as an obvious first choice, followed by SQL on the second place. </div>
 
 #### 5.2. Most popular technologies
 The following relevant from the point of view of Data Scientists technologies are analysed in time: 'Keras', 'NumPy', 'Pandas', 'TensorFlow', 'Torch/PyTorch'.
 
 ![Image](/docs/assets/DS_MiscTechHaveWorkedWith.png)
 
-Numpy and Pandas are the two top technologies among Data Scientists. Essentially they are Python libraries for numerical computations and data analysis. The other three technologies refer to deep learning. Tensorflow is the most popular one. However, when looking at the trends it seems that interest in Tensorflow is stable / decreasing and interest in Torch/PyTorch is rising.
+<div style="text-align: justify"> Numpy and Pandas are the two top technologies among Data Scientists. Essentially they are Python libraries for numerical computations and data analysis. The other three technologies refer to deep learning. Tensorflow is the most popular one. However, when looking at the trends it seems that interest in Tensorflow is stable / decreasing and interest in Torch/PyTorch is rising. </div>
 
 #### 6. Do mental health problems and accessibility issues affect Data Scientists?
 #### 6.1. Accessibility
@@ -79,19 +79,19 @@ The first column in the below table presents options to select in a survey quest
 
 ![Image](/docs/assets/DS_Accessibility_pivot.PNG)
 
-Based on the survey results we can say that accessibility issues affect around 7% of the population of Data Scientists. There are different issues raised like problems with typing, walking, seeing or hearing. Awareness of the fact that 7 out of 100 Data Scientists might have problems like that is critical, especially for companies employing Data Scientists. For example, company policies regarding assitance for people with disabilities should be in place. Also recognizing the value of diversity and inclusion plays a key role here.
+<div style="text-align: justify"> Based on the survey results we can say that accessibility issues affect around 7% of the population of Data Scientists. There are different issues raised like problems with typing, walking, seeing or hearing. Awareness of the fact that 7 out of 100 Data Scientists might have problems like that is critical, especially for companies employing Data Scientists. For example, company policies regarding assitance for people with disabilities should be in place. Also recognizing the value of diversity and inclusion plays a key role here. </div>
 
 #### 6.2. Mental Health
 The first column in the below table presents options to select in a survey question related to mental health. It's a multiple choice question.
 
 ![Image](/docs/assets/DS_MentalHealth_pivot.PNG)
 
-Based on the survey results around 30% of Data Scientists have various mental health problems. The most common are concentration and/or memory disorder, anxiety and mood or emotional disorder. Around 4% respondents have autism spectrum disorder. The results show that mental health problems really exist. In an average Team of 10 Data Scientists, 3 have various kinds of mental health issues. It is good that this question was added to stack overflow survey in 2021. Awareness that such problem exists and that the scale is significant is very informative, especially for companies who would like to create a great place to work for their employees. If a company offers a support for people with mental health problems it could be a significant benefit not only for existing employees, but also for prospective ones.
+<div style="text-align: justify"> Based on the survey results around 30% of Data Scientists have various mental health problems. The most common are concentration and/or memory disorder, anxiety and mood or emotional disorder. Around 4% respondents have autism spectrum disorder. The results show that mental health problems really exist. In an average Team of 10 Data Scientists, 3 have various kinds of mental health issues. It is good that this question was added to stack overflow survey in 2021. Awareness that such problem exists and that the scale is significant is very informative, especially for companies who would like to create a great place to work for their employees. If a company offers a support for people with mental health problems it could be a significant benefit not only for existing employees, but also for prospective ones. </div>
 
 #### Summary
 
-The analysis, which is based on the results from stack overflow survey in years 2018-2022, provided interesting insights related to the way Data Scientists work, their education level, ways to learn, salaries, most common technologies and touches important subjects like mental health and accessibility issues.
-Depending on the reader, if that is a Data Scientist, aspiring Data Scientist or someone from a company managing and building Data Science Teams, everyone should find interesting insights in the results of the analysis.
+<div style="text-align: justify"> The analysis, which is based on the results from stack overflow survey in years 2018-2022, provided interesting insights related to the way Data Scientists work, their education level, ways to learn, salaries, most common technologies and touches important subjects like mental health and accessibility issues.
+Depending on the reader, if that is a Data Scientist, aspiring Data Scientist or someone from a company managing and building Data Science Teams, everyone should find interesting insights in the results of the analysis. </div>
 
 #### References
 [Jupyter Notebook based on which this article was created](https://github.com/Pawelwl/Stack_Overflow_Survey_Analysis/blob/main/Stack%20Overflow%20Survey%20Analysis%20-%20a%20Data%20Scientist%20perspective.ipynb) <br>
